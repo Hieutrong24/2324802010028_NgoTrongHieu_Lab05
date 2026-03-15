@@ -4,7 +4,7 @@
 
 Xin chào thầy,
 
-Đây là bài **Lab 04** của em. Trong bài này em xây dựng một hệ thống gồm nhiều service theo kiến trúc **Microservices**. Các service được tách biệt để đảm bảo tính **độc lập, dễ mở rộng và dễ bảo trì**.
+Đây là bài **Lab 05** của em. Trong bài này em xây dựng một hệ thống gồm nhiều service theo kiến trúc **Microservices**. Các service được tách biệt để đảm bảo tính **độc lập, dễ mở rộng và dễ bảo trì**.
 
 ---
 
